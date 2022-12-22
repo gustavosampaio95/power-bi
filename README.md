@@ -1,2 +1,2 @@
 # power-bi
-Projetos criados para análise de dados no Power BI
+Projetos criados para análise de dados com Power BI.
